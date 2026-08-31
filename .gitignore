@@ -1,0 +1,18 @@
+# Ignore conversion output folders
+已修复/
+音响专用/
+_check_report.csv
+_体检报告.csv
+
+# Ignore user's media files
+*.mp3
+*.m4a
+*.m4s
+*.mp4
+*.flac
+*.wav
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
